@@ -1,0 +1,9 @@
+com/previred/taskmanagementapi/model/Task$StatusEnum.class
+com/previred/taskmanagementapi/model/TaskRequest.class
+com/previred/taskmanagementapi/TaskManagementApiApplication.class
+com/previred/taskmanagementapi/model/TaskRequest$StatusEnum.class
+com/previred/taskmanagementapi/model/Task.class
+com/previred/taskmanagementapi/api/DefaultApi.class
+com/previred/taskmanagementapi/api/ApiUtil.class
+com/previred/taskmanagementapi/model/JwtResponse.class
+com/previred/taskmanagementapi/model/LoginRequest.class
